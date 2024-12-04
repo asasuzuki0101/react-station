@@ -1,0 +1,16 @@
+button{
+    position: absolute;
+    top: 60px;
+    left: 180px;
+    background: rgb(195, 209, 195);  
+}
+#a1{
+    position:absolute;
+    top: 60px;
+    left: 400px;
+    background: rgb(195, 209, 195);  
+
+}
+header{
+    background-color: #f5f5f5;
+}
